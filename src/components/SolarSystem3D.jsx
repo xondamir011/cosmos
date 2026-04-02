@@ -6,7 +6,7 @@ import styled from "styled-components";
 import planets from "../data/planets";
 import Planet from "./Planet";
 import Orbits from "./Orbits";
-import Starfield from "./Starfield";
+import Starfield from "./StarField";
 import Card from "./Card";
 
 const CanvasContainer = styled.div`
